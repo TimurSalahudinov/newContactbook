@@ -1,0 +1,19 @@
+.divs{
+  
+    max-width: 958px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 1rem;
+    font-family: Arial;
+  
+  /* display: flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content: space-between;
+  width: 30%; */
+}
+img{
+width: 150px;
+height: 150px;
+
+}
